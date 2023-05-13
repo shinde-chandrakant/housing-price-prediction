@@ -1,5 +1,7 @@
 # housing-price-prediction
 
+![image](https://github.com/shinde-chandrakant/housing-price-prediction/assets/94171996/6d8067e3-dc00-4170-a8d1-d5fe6d5f4eb3)
+
 #### Problem Statement:
 
 ##### Help business optimize the sale prices of the properties based on important factors such as area, bedrooms, parking, etc.
@@ -12,4 +14,3 @@ Essentially, the company wants —
 - To create a linear model that quantitatively relates house prices with variables such as number of rooms, area, number of bathrooms, etc.
 
 - To know the accuracy of the model, i.e. how well these variables can predict house prices.
-
