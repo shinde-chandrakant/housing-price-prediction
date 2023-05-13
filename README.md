@@ -1,6 +1,7 @@
 # housing-price-prediction
 
-![image](https://github.com/shinde-chandrakant/housing-price-prediction/assets/94171996/f3d963ac-b80e-4123-9470-ddfb5291095e)
+<!-- ![image](https://github.com/shinde-chandrakant/housing-price-prediction/assets/94171996/f3d963ac-b80e-4123-9470-ddfb5291095e){width=300 height=200} -->
+<img src="https://github.com/shinde-chandrakant/housing-price-prediction/assets/94171996/f3d963ac-b80e-4123-9470-ddfb5291095e" width=50% height=50%>
 
 #### Problem Statement:
 
